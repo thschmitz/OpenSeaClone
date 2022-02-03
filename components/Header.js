@@ -33,7 +33,7 @@ const Header = () => {
           <input className={style.searchInput} placeholder="Search items, collections, and accounts" />
       </div>
       <div className={style.headerItems}>
-          <Link href="/collections/0x72Bd665F701B82a6Ad151526e99Ff73cE581F081">
+          <Link href="/collections/0xf066ac51698e3028c6eD5184BBe01fb720A66EEE">
             <div className={style.headerItem}> Collections </div>
           </Link>
           <div className={style.headerItem}> Stats </div>
